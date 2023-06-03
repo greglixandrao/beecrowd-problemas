@@ -15,6 +15,5 @@ public class Beecrowd_1005 {
 
         System.out.printf("MEDIA = %.5f%n", media);
         scan.close();
-
     }
 }

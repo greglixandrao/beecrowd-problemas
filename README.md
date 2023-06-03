@@ -1,7 +1,7 @@
 # Solving problem in beecrowd plataform
 https://www.beecrowd.com.br/
 
-**I am solving beginner problems to study Java and to train Logic and Algorithm**
+**I am solving beginner problems to study Java and to training Logic and Algorithm**
 
 Solved problems:<br>
 - [x] 1005 - Media 1

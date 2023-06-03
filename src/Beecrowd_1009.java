@@ -1,5 +1,5 @@
 /*
-Utilizado média ponderada para resolver esse problema
+Utilizado matemática básica para resolver esse problema
 beecrowd - Problema 1009 - Salário com Bônus
 URL:https://www.beecrowd.com.br/judge/pt/problems/view/1009
 */
